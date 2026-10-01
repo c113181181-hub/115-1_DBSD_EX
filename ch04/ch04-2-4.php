@@ -1,3 +1,7 @@
+# SID: C113181181<BR>
+# Name: 葉育晉 <BR>
+EX02
+<HR>
 <?php
 // 指定變數值
     $name = "myName"; // 將字串 "myName" 賦值給變數 $name

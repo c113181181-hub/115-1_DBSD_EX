@@ -1,3 +1,7 @@
+# SID: C113181181<BR>
+# Name: 葉育晉 <BR>
+EX04
+<HR>
 <?php
 define("PI", 3.1415926);  // 常數宣告
 define("AREA", "面積");
