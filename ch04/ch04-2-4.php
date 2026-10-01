@@ -1,3 +1,4 @@
+<?php
 // 指定變數值
     $name = "myName"; // 將字串 "myName" 賦值給變數 $name
 
