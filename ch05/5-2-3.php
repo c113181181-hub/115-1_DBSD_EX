@@ -1,5 +1,9 @@
+# Name: 葉育晉 <BR>
+# SID:C113181181<BR>
+#EX01
+<HR>
 <?php
-$grade = 80;
+$grade = 60;
 
 if ($grade >= 80) {
     echo "甲等";

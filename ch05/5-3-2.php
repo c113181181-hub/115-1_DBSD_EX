@@ -1,3 +1,7 @@
+# Name: 葉育晉 <BR>
+# SID:C113181181<BR>
+#EX03
+<HR>
 <?php
 $result = 0;
 $n = 0;
