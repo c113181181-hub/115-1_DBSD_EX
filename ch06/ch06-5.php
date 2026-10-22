@@ -1,7 +1,7 @@
 <?php
 include "ch06-5-1.inc";
 include_once("ch06-5-2.inc");
-
+echo"EX01<br/>";
 $amount = 1000;
 $rate = 28.1;
 // 呼叫函數
